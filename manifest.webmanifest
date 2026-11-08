@@ -1,0 +1,9 @@
+{
+  "name": "Loşşş Cafe",
+  "short_name": "Loşşş Cafe",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101811",
+  "theme_color": "#101811",
+  "icons": []
+}
