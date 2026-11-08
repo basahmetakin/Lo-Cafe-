@@ -1,9 +1,10 @@
+
 {
   "name": "Loşşş Cafe",
   "short_name": "Loşşş Cafe",
-  "id": "./",
-  "start_url": "./",
-  "scope": "./",
+  "id": "/Lo-Cafe-/",
+  "start_url": "/Lo-Cafe-/",
+  "scope": "/Lo-Cafe-/",
   "display": "standalone",
   "background_color": "#101811",
   "theme_color": "#101811",
